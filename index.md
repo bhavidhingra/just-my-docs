@@ -4,8 +4,6 @@ title: Home
 nav_order: 1
 description: "Custom-Git is an open source, general-purpose, highly efficient command line git tool."
 permalink: /
-comments: true
-url: "https://bhavidhingra.github.io/just-my-docs/"
 ---
 
 # Focus on writing good coding
