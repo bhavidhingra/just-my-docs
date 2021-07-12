@@ -6,4 +6,4 @@ grand_parent: Custom-Git Explorer
 permalink: /explorer/show/commit-logs
 ---
 
-# Show Repo Status
+# Show Commit Logs
