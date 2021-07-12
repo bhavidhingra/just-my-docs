@@ -2,6 +2,7 @@
 layout: default
 title: Add New Changes
 parent: Add
+grand_parent: Custom-Git Explorer
 permalink: /explorer/add/new-changes
 ---
 
