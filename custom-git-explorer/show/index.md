@@ -1,9 +1,9 @@
 ---
 layout: default
-title: add
+title: show
 has_children: true
 parent: Custom-Git Explorer
-permalink: /explorer/add
+permalink: /explorer/show
 ---
 
-# Add
+# Show
