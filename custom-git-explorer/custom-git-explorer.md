@@ -7,3 +7,6 @@ permalink: /explorer
 ---
 
 # Custom-Git Explorer
+
+Find the right custom-git commands you need easily.
+{: .fs-6 .fw-300 }
