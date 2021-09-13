@@ -16,5 +16,15 @@ An open source, general-purpose, highly efficient command line git tool.
 ---
 
 <!-- [Setup custom-git]({{ site.baseurl }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
-[<i class="fas fa-cog fa-x"></i> Setup custom-git]({{ site.url }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[<i class="fas fa-cog fa-x"></i> Get Started]({{ site.url }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 <div class="g-ytsubscribe" data-channelid="UC_pNb_w0nc_mnfBOUtCmhQQ" data-layout="full" data-count="default"></div>
+
+#### Thank you to the contributors of Just the Docs!
+
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
+  </li>
+{% endfor %}
+</ul>
