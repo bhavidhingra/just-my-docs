@@ -17,10 +17,10 @@ The following commands will help you to install custom-git on your terminal or u
 1. TOC
 {:toc}
 
-## Demo Video
+## <i class="fas fa-video"></i> Demo
 <iframe width="600" height="337.5" src="https://www.youtube.com/embed/StaPAVXnAm0?start=166&end=186&controls=0&modestbranding=1&disablekb=1&autohide=1&rel=0&fs=1&iv_load_policy=3&widget_referrer=https://custom-git.io" title="gadd demo" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Install
+## <i class="fas fa-arrow-alt-circle-down"></i> Install
 
 ```shell
 # with curl
@@ -31,7 +31,7 @@ bash -c "$(curl -fsSL https://custom-git.io/install)"
 bash -c "$(wget -qO- https://custom-git.io/install)"
 ```
 
-## Update
+## <i class="fas fa-wrench"></i> Update
 
 ```shell
 # with curl
@@ -42,7 +42,7 @@ bash -c "$(curl -fsSL https://custom-git.io/update)"
 bash -c "$(wget -qO- https://custom-git.io/update)"
 ```
 
-## Uninstall
+## <i class="fas fa-trash-alt"></i> Uninstall
 
 ```shell
 # with curl
