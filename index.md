@@ -17,6 +17,6 @@ An open source, general-purpose, highly efficient command line git tool.
 
 ---
 
-<!-- [Setup custom-git]({{ site.baseurl }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
-[<i class="fas fa-cog fa-x"></i> Get Started]({{ site.url }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started]({{ site.baseurl }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+<!-- [Get Started]({{ site.url }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
 <div class="g-ytsubscribe" data-channelid="UC_pNb_w0nc_mnfBOUtCmhQQ" data-layout="full" data-count="default"></div>
