@@ -9,8 +9,9 @@ permalink: /
 An open source, general-purpose, highly efficient command line git tool.
 {: .fs-6 .fw-300 }
 
-<!-- [Get Started]({{ site.baseurl }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
-[Get Started]({{ site.url }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started]({{ site.baseurl }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+<!-- [Get Started]({{ site.url }}{% link setup.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
 
 ---
 
@@ -28,3 +29,4 @@ An open source, general-purpose, highly efficient command line git tool.
 </div>
 
 <br>
+
