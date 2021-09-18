@@ -1,8 +1,7 @@
 title: custom-git
 # theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
-baseurl: "/just-my-docs"
-url: "https://bhavidhingra.github.io"
+url: "https://bhavidhingra.github.io/just-my-docs"
 logo: "/assets/images/custom-git-logo.png"
 
 # Aux links for the upper right navigation
