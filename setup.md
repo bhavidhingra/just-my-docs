@@ -11,8 +11,6 @@ permalink: /setup
 The following commands will help you to install custom-git on your terminal or update it when new releases come out. You can also uninstall custom-git if you feel like it's not for you.
 {: .fs-6 .fw-300 }
 
-<div class="g-ytsubscribe" data-channelid="UC_pNb_w0nc_mnfBOUtCmhQQ" data-layout="full" data-count="default"></div>
-
 ## Table of contents
 {: .no_toc .text-delta }
 
