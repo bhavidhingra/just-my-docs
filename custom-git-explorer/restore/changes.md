@@ -1,16 +1,17 @@
 ---
 layout: default
-title: unstaged changes
+title: changes
 parent: restore
 grand_parent: Custom-Git Explorer
-permalink: /explorer/restore/unstaged-changes
+permalink: /explorer/restore/changes
 ---
 
-# `grestore`
+# `grestore`, `grestorestaged`
 {: .no_toc }
 
-Select the unstaged (working tree) files to restore to HEAD.
-<br>It provides a prompt before removing the changes.
+Select the unstaged (working tree) files to restore to HEAD with `grestore`.<br>
+It provides a prompt before removing the changes.<br>
+Select the files to unstage with `grestorestaged`.
 {: .fs-5 .fw-300 }
 
 ## Table of contents
@@ -21,7 +22,7 @@ Select the unstaged (working tree) files to restore to HEAD.
 
 ## <i class="fas fa-video"></i> Demo
 <div class="container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/StaPAVXnAm0?start=166&end=186&controls=0&modestbranding=1&autohide=1&rel=0&fs=1&iv_load_policy=3&widget_referrer=https://custom-git.io" title="gadd demo" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8eSCjlOzDPI?modestbranding=1&autohide=1&rel=0&fs=1&iv_load_policy=3&widget_referrer=https://custom-git.io" title="gadd demo" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## <i class="fas fa-file-alt"></i> Internals

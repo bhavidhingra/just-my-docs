@@ -1,16 +1,16 @@
 ---
 layout: default
-title: uncommitted changes
+title: changes
 nav_order: 2
 parent: show/view
 grand_parent: Custom-Git Explorer
-permalink: /explorer/show/uncommitted-changes
+permalink: /explorer/show/changes
 ---
 
 # `gdiff`
 {: .no_toc }
 
-View uncommitted changes of all the files (staged, unstaged, untracked etc.) in one scrollable list.
+Show changes of all the files (staged, unstaged, untracked etc.) in one scrollable list.
 {: .fs-5 .fw-300 }
 
 ## Table of contents
@@ -21,7 +21,7 @@ View uncommitted changes of all the files (staged, unstaged, untracked etc.) in 
 
 ## <i class="fas fa-video"></i> Demo
 <div class="container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/StaPAVXnAm0?start=166&end=186&controls=0&modestbranding=1&autohide=1&rel=0&fs=1&iv_load_policy=3&widget_referrer=https://custom-git.io" title="gadd demo" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/S2D2jWXWlrA?modestbranding=1&autohide=1&rel=0&fs=1&iv_load_policy=3&widget_referrer=https://custom-git.io" title="gdiff demo" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## <i class="fas fa-file-alt"></i> Internals
