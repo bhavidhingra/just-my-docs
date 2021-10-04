@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Releases
+title: What's New?
 nav_order: 4
 has_children: true
-permalink: /releases
+permalink: /whats-new
 exclude_comments: true
 ---
 
-# Releases
+# What's New?
